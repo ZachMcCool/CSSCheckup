@@ -1,0 +1,18 @@
+body {
+    background-color: tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+section {
+    width: 50%;
+    border: 35px solid black;
+    margin: 0 auto;
+    border: 45px solid black;
+}
+.bigBoy {
+    font-size: 5rem;
+    color: cadetblue;
+}
+p {
+    margin: 5rem;
+}
